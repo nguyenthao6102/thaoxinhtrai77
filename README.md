@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Thao Nguyen
 - 👀 I’m interested in web frontend
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning reactjs, redux
 - 📫 How to reach me: email: nguyenthao6102@gmail.com
 
 <!---
